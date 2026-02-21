@@ -1,0 +1,63 @@
+region,country,age_group,gender,bmi_avg,hypertension_prevalence,diabetes_prevalence,malaria_prevalence,anemia_prevalence,cardiovascular_risk,obesity_rate,genotype_ss_rate,urban_rural,altitude_m,avg_temp_c,rainfall_mm,water_access_pct,healthcare_access_pct
+West Africa,Nigeria,18-30,male,23.1,0.12,0.04,0.42,0.28,0.08,0.09,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,18-30,female,24.8,0.14,0.05,0.45,0.38,0.07,0.14,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,31-45,male,25.6,0.28,0.09,0.38,0.22,0.16,0.17,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,31-45,female,27.2,0.32,0.11,0.41,0.35,0.15,0.24,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,46-60,male,26.8,0.48,0.18,0.31,0.24,0.34,0.22,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,46-60,female,28.5,0.52,0.21,0.34,0.42,0.32,0.31,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,60+,male,25.1,0.65,0.26,0.22,0.35,0.52,0.18,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,60+,female,26.3,0.68,0.29,0.25,0.48,0.49,0.25,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,18-30,male,22.4,0.09,0.03,0.58,0.32,0.06,0.06,0.024,rural,45,27,1200,0.45,0.28
+West Africa,Nigeria,18-30,female,23.1,0.11,0.04,0.61,0.44,0.05,0.08,0.024,rural,45,27,1200,0.45,0.28
+West Africa,Nigeria,31-45,male,24.2,0.24,0.07,0.54,0.28,0.13,0.10,0.024,rural,45,27,1200,0.45,0.28
+West Africa,Nigeria,31-45,female,25.8,0.28,0.08,0.57,0.41,0.11,0.15,0.024,rural,45,27,1200,0.45,0.28
+West Africa,Ghana,18-30,male,22.8,0.10,0.04,0.38,0.25,0.07,0.08,0.020,urban,61,26,1200,0.78,0.60
+West Africa,Ghana,31-45,male,24.9,0.26,0.09,0.32,0.19,0.15,0.14,0.020,urban,61,26,1200,0.78,0.60
+West Africa,Ghana,31-45,female,26.5,0.30,0.11,0.35,0.31,0.13,0.22,0.020,urban,61,26,1200,0.78,0.60
+West Africa,Ghana,46-60,male,25.9,0.44,0.17,0.24,0.22,0.31,0.19,0.020,urban,61,26,1200,0.78,0.60
+West Africa,Senegal,18-30,male,22.2,0.11,0.03,0.48,0.29,0.07,0.07,0.018,urban,22,28,500,0.68,0.45
+West Africa,Senegal,31-45,female,25.1,0.29,0.08,0.42,0.37,0.12,0.18,0.018,urban,22,28,500,0.68,0.45
+West Africa,Cote d'Ivoire,18-30,male,22.6,0.13,0.04,0.52,0.31,0.08,0.09,0.022,urban,226,26,1500,0.71,0.50
+West Africa,Cote d'Ivoire,31-45,male,24.5,0.30,0.10,0.46,0.24,0.17,0.14,0.022,rural,226,26,1500,0.48,0.30
+East Africa,Kenya,18-30,male,22.3,0.09,0.04,0.24,0.21,0.06,0.07,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Kenya,18-30,female,23.5,0.10,0.05,0.26,0.35,0.05,0.10,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Kenya,31-45,male,24.1,0.22,0.08,0.18,0.18,0.14,0.11,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Kenya,31-45,female,25.8,0.26,0.10,0.21,0.30,0.12,0.18,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Kenya,46-60,male,25.4,0.41,0.16,0.14,0.24,0.28,0.16,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Kenya,46-60,female,27.1,0.45,0.19,0.17,0.38,0.26,0.25,0.012,urban,1661,19,900,0.74,0.62
+East Africa,Ethiopia,18-30,male,20.8,0.07,0.02,0.18,0.32,0.04,0.05,0.010,rural,2355,16,900,0.42,0.32
+East Africa,Ethiopia,31-45,male,21.5,0.15,0.05,0.14,0.26,0.09,0.06,0.010,rural,2355,16,900,0.42,0.32
+East Africa,Ethiopia,31-45,female,22.2,0.18,0.06,0.16,0.38,0.08,0.08,0.010,rural,2355,16,900,0.42,0.32
+East Africa,Tanzania,18-30,male,21.9,0.10,0.03,0.35,0.28,0.06,0.06,0.014,rural,1100,22,1000,0.50,0.38
+East Africa,Tanzania,31-45,female,24.1,0.25,0.08,0.29,0.36,0.12,0.12,0.014,urban,1100,22,1000,0.62,0.48
+East Africa,Uganda,18-30,male,22.1,0.09,0.03,0.41,0.30,0.06,0.07,0.016,rural,1100,22,1300,0.48,0.36
+East Africa,Uganda,31-45,male,23.8,0.21,0.07,0.36,0.24,0.13,0.10,0.016,urban,1100,22,1300,0.65,0.52
+Southern Africa,South Africa,18-30,male,24.5,0.16,0.06,0.04,0.14,0.10,0.16,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,South Africa,18-30,female,26.8,0.18,0.07,0.05,0.22,0.09,0.28,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,South Africa,31-45,male,27.2,0.35,0.13,0.03,0.15,0.22,0.28,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,South Africa,31-45,female,29.5,0.40,0.16,0.04,0.24,0.20,0.38,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,South Africa,46-60,male,28.1,0.55,0.24,0.02,0.18,0.40,0.32,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,South Africa,60+,male,26.8,0.70,0.31,0.01,0.28,0.58,0.26,0.008,urban,1400,18,500,0.88,0.80
+Southern Africa,Zimbabwe,18-30,male,22.8,0.12,0.04,0.14,0.24,0.07,0.08,0.014,urban,1200,20,700,0.68,0.55
+Southern Africa,Zimbabwe,31-45,female,25.2,0.28,0.10,0.10,0.32,0.13,0.16,0.014,urban,1200,20,700,0.68,0.55
+Southern Africa,Zambia,18-30,male,21.9,0.10,0.03,0.32,0.28,0.06,0.07,0.016,rural,1200,22,900,0.52,0.40
+Southern Africa,Zambia,31-45,male,23.4,0.22,0.07,0.26,0.22,0.12,0.10,0.016,urban,1200,22,900,0.62,0.50
+Central Africa,DR Congo,18-30,male,21.5,0.11,0.03,0.52,0.34,0.07,0.08,0.020,rural,310,24,1600,0.38,0.28
+Central Africa,DR Congo,31-45,male,22.8,0.24,0.07,0.46,0.28,0.13,0.10,0.020,rural,310,24,1600,0.38,0.28
+Central Africa,DR Congo,31-45,female,24.1,0.28,0.09,0.50,0.42,0.11,0.14,0.020,urban,310,24,1600,0.52,0.38
+Central Africa,Cameroon,18-30,male,22.4,0.12,0.04,0.44,0.30,0.08,0.09,0.018,urban,475,24,1600,0.64,0.48
+Central Africa,Cameroon,31-45,female,25.6,0.30,0.10,0.38,0.36,0.14,0.18,0.018,urban,475,24,1600,0.64,0.48
+North Africa,Egypt,18-30,male,25.8,0.18,0.07,0.01,0.12,0.11,0.22,0.002,urban,50,22,25,0.94,0.85
+North Africa,Egypt,31-45,male,28.2,0.38,0.15,0.01,0.14,0.26,0.32,0.002,urban,50,22,25,0.94,0.85
+North Africa,Egypt,31-45,female,30.1,0.42,0.18,0.01,0.20,0.24,0.42,0.002,urban,50,22,25,0.94,0.85
+North Africa,Egypt,46-60,male,29.4,0.58,0.26,0.00,0.16,0.44,0.36,0.002,urban,50,22,25,0.94,0.85
+North Africa,Morocco,18-30,male,24.6,0.15,0.06,0.00,0.10,0.09,0.18,0.002,urban,540,18,350,0.88,0.78
+North Africa,Morocco,31-45,female,27.8,0.36,0.14,0.00,0.16,0.22,0.30,0.002,urban,540,18,350,0.88,0.78
+North Africa,Tunisia,31-45,male,27.2,0.34,0.13,0.00,0.12,0.24,0.28,0.001,urban,200,19,400,0.90,0.82
+West Africa,Nigeria,18-30,male,30.2,0.18,0.07,0.40,0.22,0.14,0.22,0.024,urban,45,27,1200,0.72,0.55
+West Africa,Nigeria,31-45,male,32.8,0.42,0.16,0.34,0.18,0.30,0.38,0.024,urban,45,27,1200,0.72,0.55
+East Africa,Kenya,31-45,female,31.2,0.36,0.14,0.18,0.24,0.24,0.32,0.012,urban,1661,19,900,0.74,0.62
+Southern Africa,South Africa,31-45,male,32.5,0.48,0.20,0.02,0.12,0.34,0.42,0.008,urban,1400,18,500,0.88,0.80
+West Africa,Nigeria,46-60,male,24.2,0.58,0.22,0.28,0.28,0.42,0.16,0.024,rural,45,27,1200,0.45,0.28
+East Africa,Rwanda,18-30,male,21.8,0.08,0.03,0.28,0.26,0.05,0.06,0.010,urban,1550,19,1100,0.82,0.70
+East Africa,Rwanda,31-45,female,23.4,0.22,0.07,0.24,0.34,0.11,0.10,0.010,urban,1550,19,1100,0.82,0.70
