@@ -1,6 +1,6 @@
-# ⚕ AI Health Partner – Data to Prevention
+# ⚕ URPadi- AI Health Partner
 
-A hackathon-ready, full-stack AI health platform featuring:
+A full-stack AI health platform featuring:
 - ML-powered risk prediction (Hypertension & Malaria)
 - Claude AI explanation layer
 - Weekly health scoring with Chart.js visualisation
@@ -15,7 +15,7 @@ A hackathon-ready, full-stack AI health platform featuring:
 ## 🗂 Project Structure
 
 ```
-ai-health-partner/
+URPadi/
 ├── backend/
 │   ├── main.py                   # FastAPI app entry point
 │   ├── core/
