@@ -1,4 +1,4 @@
-# ⚕ URPadi- AI Health Partner
+# ⚕URPadi- AI Health Partner
 
 A full-stack AI health platform featuring:
 - ML-powered risk prediction (Hypertension & Malaria)
